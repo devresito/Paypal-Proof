@@ -2,10 +2,6 @@
 
 Re-upload of https://github.com/devresito/Paypal-Proof
 
-<p align="center">
-  <img src="https://i.ibb.co/3gBJhqR/imagen.png" width="100%">
-</p>
-
 SOON...
 
 - NauticMC-Fake
